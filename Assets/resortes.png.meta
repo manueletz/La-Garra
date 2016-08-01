@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 151c121f3aa15bf4696001115af140a8
+timeCreated: 1469844124
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: resortes_0
+    21300002: resortes_1
+    21300004: resortes_2
+    21300006: resortes_3
+    21300008: resortes_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: resortes_0
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 268
+        width: 351
+        height: 426
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.979202, y: 176.0176}
+        - {x: -69.9792, y: 170.0176}
+        - {x: -69.9792, y: 61.017593}
+        - {x: -16.979202, y: 5.0175934}
+        - {x: 45.020798, y: 5.0175934}
+        - {x: 68.0208, y: 18.017593}
+        - {x: 68.0208, y: 152.0176}
+        - {x: 54.020798, y: 176.0176}
+    - name: resortes_1
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 272
+        width: 658
+        height: 889
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.373596, y: 361.9784}
+        - {x: -42.626404, y: 361.9784}
+        - {x: -71.6264, y: 355.9784}
+        - {x: -87.6264, y: 327.9784}
+        - {x: -92.6264, y: 254.9784}
+        - {x: -37.626404, y: 197.9784}
+        - {x: -26.626404, y: 190.9784}
+        - {x: -48.626404, y: 191.9784}
+        - {x: -78.6264, y: 138.9784}
+        - {x: -132.6264, y: 54.978394}
+        - {x: -132.6264, y: 39.978394}
+        - {x: -130.6264, y: 37.978394}
+        - {x: -95.6264, y: 38.978394}
+        - {x: -93.6264, y: 49.978394}
+        - {x: -89.6264, y: 45.978394}
+        - {x: -70.6264, y: -0.021606445}
+        - {x: 86.3736, y: -0.021606445}
+        - {x: 136.3736, y: 65.97839}
+        - {x: 136.3736, y: 158.9784}
+        - {x: 56.373596, y: 337.9784}
+    - name: resortes_2
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 263
+        width: 622
+        height: 1054
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128.55518, y: 106.08399}
+        - {x: 69.555176, y: 161.08398}
+        - {x: 72.555176, y: 235.08398}
+        - {x: 66.555176, y: 371.08398}
+        - {x: 33.555176, y: 432.08398}
+        - {x: 31.555176, y: 433.08398}
+        - {x: -43.444824, y: 433.08398}
+        - {x: -69.444824, y: 426.08398}
+        - {x: -95.444824, y: 402.08398}
+        - {x: -81.444824, y: 294.08398}
+        - {x: -48.444824, y: 250.08398}
+        - {x: -46.444824, y: 202.08398}
+        - {x: -127.444824, y: 59.083992}
+        - {x: -127.444824, y: 35.083992}
+        - {x: -71.444824, y: 1.083992}
+        - {x: 59.555176, y: 1.083992}
+        - {x: 63.555176, y: 122.08399}
+        - {x: 126.555176, y: 61.083992}
+        - {x: 128.55518, y: 63.083992}
+    - name: resortes_3
+      rect:
+        serializedVersion: 2
+        x: 3202
+        y: 268
+        width: 654
+        height: 1346
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 133.03918, y: 214.9336}
+        - {x: 91.039185, y: 290.9336}
+        - {x: 51.039185, y: 548.9336}
+        - {x: -66.960815, y: 548.9336}
+        - {x: -118.960815, y: 471.9336}
+        - {x: -69.960815, y: 243.9336}
+        - {x: -42.960815, y: 206.9336}
+        - {x: -24.960815, y: 202.9336}
+        - {x: 0.03918457, y: 198.9336}
+        - {x: -21.960815, y: 192.9336}
+        - {x: -55.960815, y: 183.9336}
+        - {x: -45.960815, y: 171.9336}
+        - {x: -86.960815, y: 129.9336}
+        - {x: -133.96082, y: 60.933594}
+        - {x: -133.96082, y: 34.933594}
+        - {x: -75.960815, y: -0.06640625}
+        - {x: 50.039185, y: -0.06640625}
+        - {x: 51.039185, y: 0.93359375}
+        - {x: 53.039185, y: 5.9335938}
+        - {x: 133.03918, y: 63.933594}
+    - name: resortes_4
+      rect:
+        serializedVersion: 2
+        x: 4271
+        y: 277
+        width: 645
+        height: 1675
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 125.90161, y: 57.999176}
+        - {x: 131.90161, y: 82.999176}
+        - {x: 131.90161, y: 91.999176}
+        - {x: 60.90161, y: 153.99918}
+        - {x: 131.90161, y: 224.99918}
+        - {x: 131.90161, y: 535.99915}
+        - {x: 60.90161, y: 686.99915}
+        - {x: -43.09839, y: 686.99915}
+        - {x: -75.09839, y: 672.99915}
+        - {x: -120.09839, y: 585.99915}
+        - {x: -62.09839, y: 227.99918}
+        - {x: -75.09839, y: 203.99918}
+        - {x: -103.09839, y: 142.99918}
+        - {x: -132.09839, y: 48.999176}
+        - {x: -132.09839, y: 34.999176}
+        - {x: -99.09839, y: 37.999176}
+        - {x: -98.09839, y: 40.999176}
+        - {x: -98.09839, y: 44.999176}
+        - {x: -74.09839, y: -0.0008239746}
+        - {x: 50.90161, y: -0.0008239746}
+        - {x: 51.90161, y: 19.999176}
+        - {x: 54.90161, y: 97.999176}
+        - {x: 119.90161, y: 54.999176}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

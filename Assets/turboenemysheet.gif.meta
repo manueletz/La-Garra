@@ -1,0 +1,765 @@
+fileFormatVersion: 2
+guid: 6e586fb29c03a3548a3069510ac473b6
+timeCreated: 1469845427
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: turboenemysheet_0
+    21300002: turboenemysheet_1
+    21300004: turboenemysheet_2
+    21300006: turboenemysheet_3
+    21300008: turboenemysheet_4
+    21300010: turboenemysheet_5
+    21300012: turboenemysheet_6
+    21300014: turboenemysheet_7
+    21300016: turboenemysheet_8
+    21300018: turboenemysheet_9
+    21300020: turboenemysheet_10
+    21300022: turboenemysheet_11
+    21300024: turboenemysheet_12
+    21300026: turboenemysheet_13
+    21300028: turboenemysheet_14
+    21300030: turboenemysheet_15
+    21300032: turboenemysheet_16
+    21300034: turboenemysheet_17
+    21300036: turboenemysheet_18
+    21300038: turboenemysheet_19
+    21300040: turboenemysheet_20
+    21300042: turboenemysheet_21
+    21300044: turboenemysheet_22
+    21300046: turboenemysheet_23
+    21300048: turboenemysheet_24
+    21300050: turboenemysheet_25
+    21300052: turboenemysheet_26
+    21300054: turboenemysheet_27
+    21300056: turboenemysheet_28
+    21300058: turboenemysheet_29
+    21300060: turboenemysheet_30
+    21300062: turboenemysheet_31
+    21300064: turboenemysheet_32
+    21300066: turboenemysheet_33
+    21300068: turboenemysheet_34
+    21300070: turboenemysheet_35
+    21300072: turboenemysheet_36
+    21300074: turboenemysheet_37
+    21300076: turboenemysheet_38
+    21300078: turboenemysheet_39
+    21300080: turboenemysheet_40
+    21300082: turboenemysheet_41
+    21300084: turboenemysheet_42
+    21300086: turboenemysheet_43
+    21300088: turboenemysheet_44
+    21300090: turboenemysheet_45
+    21300092: turboenemysheet_46
+    21300094: turboenemysheet_47
+    21300096: turboenemysheet_48
+    21300098: turboenemysheet_49
+    21300100: turboenemysheet_50
+    21300102: turboenemysheet_51
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: turboenemysheet_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -16, y: 5}
+        - {x: -16, y: -16}
+        - {x: 7, y: -16}
+        - {x: 16, y: -12}
+        - {x: 16, y: 13}
+        - {x: 13, y: 16}
+    - name: turboenemysheet_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 107
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: turboenemysheet_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -16, y: 14}
+        - {x: -16, y: -11}
+        - {x: -5, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 7}
+        - {x: 4, y: 16}
+    - name: turboenemysheet_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 107
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: turboenemysheet_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 107
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: turboenemysheet_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 107
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: turboenemysheet_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 107
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: turboenemysheet_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 107
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: turboenemysheet_8
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 107
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: turboenemysheet_9
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 107
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: turboenemysheet_10
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 107
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: turboenemysheet_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 107
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: turboenemysheet_12
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 131
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 34.5}
+        - {x: -24, y: 18.5}
+        - {x: -24, y: -33.5}
+        - {x: -22, y: -34.5}
+        - {x: 24, y: -34.5}
+        - {x: 24, y: 18.5}
+        - {x: 11, y: 34.5}
+    - name: turboenemysheet_13
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 131
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 33.5}
+        - {x: -26, y: 23.5}
+        - {x: -26, y: -33.5}
+        - {x: 20, y: -33.5}
+        - {x: 26, y: -32.5}
+        - {x: 26, y: 23.5}
+        - {x: 8, y: 33.5}
+    - name: turboenemysheet_14
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 131
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 32.5}
+        - {x: -27, y: 22.5}
+        - {x: -27, y: -30.5}
+        - {x: -26, y: -32.5}
+        - {x: 20, y: -32.5}
+        - {x: 27, y: -30.5}
+        - {x: 27, y: 24.5}
+        - {x: 11, y: 32.5}
+    - name: turboenemysheet_15
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 131
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 34.5}
+        - {x: -24, y: 18.5}
+        - {x: -24, y: -33.5}
+        - {x: -22, y: -34.5}
+        - {x: 24, y: -34.5}
+        - {x: 24, y: 18.5}
+        - {x: 11, y: 34.5}
+    - name: turboenemysheet_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 131
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 34.5}
+        - {x: -24, y: 18.5}
+        - {x: -24, y: -33.5}
+        - {x: -22, y: -34.5}
+        - {x: 24, y: -34.5}
+        - {x: 24, y: 18.5}
+        - {x: 11, y: 34.5}
+    - name: turboenemysheet_17
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 107
+        width: 43
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: turboenemysheet_18
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 107
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: turboenemysheet_19
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 107
+        width: 43
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: turboenemysheet_20
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 106
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: turboenemysheet_21
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 106
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: turboenemysheet_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 106
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: turboenemysheet_23
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 106
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: turboenemysheet_25
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 105
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: turboenemysheet_26
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 3
+        width: 32
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 88}
+        - {x: -16, y: 79}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 79}
+        - {x: 12, y: 88}
+    - name: turboenemysheet_27
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 3
+        width: 32
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 90}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 85}
+        - {x: 14, y: 90}
+    - name: turboenemysheet_28
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 3
+        width: 32
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 95}
+        - {x: -16, y: 87}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 90}
+        - {x: 11, y: 95}
+    - name: turboenemysheet_29
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 3
+        width: 32
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 96}
+        - {x: -16, y: 89}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 88}
+        - {x: 7, y: 96}
+    - name: turboenemysheet_37
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 3
+        width: 32
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 79}
+        - {x: -16, y: 73}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 71}
+        - {x: 12, y: 79}
+    - name: turboenemysheet_38
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 3
+        width: 32
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 93}
+        - {x: -16, y: 88}
+        - {x: -16, y: 71}
+        - {x: -15, y: 71}
+        - {x: -16, y: 72}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 93}
+    - name: turboenemysheet_40
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 3
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 32}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 32}
+    - name: turboenemysheet_41
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 3
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 32}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 32}
+    - name: turboenemysheet_42
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 3
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 32}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 32}
+    - name: turboenemysheet_43
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 3
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 32}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 32}
+    - name: turboenemysheet_44
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 3
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 32}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 32}
+    - name: turboenemysheet_45
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 3
+        width: 32
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 42}
+        - {x: -16, y: 41}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 34}
+        - {x: 11, y: 42}
+    - name: turboenemysheet_46
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 3
+        width: 32
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 55}
+        - {x: -16, y: 49}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 47}
+        - {x: 11, y: 55}
+    - name: turboenemysheet_47
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 3
+        width: 32
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 64}
+        - {x: -16, y: 58}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 56}
+        - {x: 7, y: 64}
+    - name: turboenemysheet_48
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 3
+        width: 32
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 66}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 58}
+        - {x: 10, y: 66}
+    - name: turboenemysheet_49
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 3
+        width: 32
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 65}
+        - {x: -16, y: 59}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 57}
+        - {x: 12, y: 65}
+      - - {x: -12, y: 94}
+        - {x: -16, y: 93}
+        - {x: -16, y: 76}
+        - {x: 14, y: 76}
+        - {x: 16, y: 77}
+        - {x: 16, y: 89}
+        - {x: 9, y: 94}
+    - name: turboenemysheet_50
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 2
+        width: 33
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 51}
+        - {x: -16.5, y: 42}
+        - {x: -16.5, y: 0}
+        - {x: 16.5, y: 0}
+        - {x: 16.5, y: 36}
+        - {x: 3.5, y: 51}
+      - - {x: -12.5, y: 94}
+        - {x: -15.5, y: 89}
+        - {x: -15.5, y: 81}
+        - {x: -14.5, y: 80}
+        - {x: 14.5, y: 80}
+        - {x: 14.5, y: 88}
+        - {x: 9.5, y: 94}
+    - name: turboenemysheet_51
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 3
+        width: 32
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 36}
+        - {x: -7, y: 36}
+        - {x: -15, y: 35}
+        - {x: -16, y: 33}
+        - {x: -16, y: 0}
+        - {x: 16, y: 0}
+        - {x: 16, y: 32}
+        - {x: 15, y: 35}
+      - - {x: 9, y: 94}
+        - {x: -16, y: 94}
+        - {x: -16, y: 85}
+        - {x: -13, y: 82}
+        - {x: 13, y: 82}
+        - {x: 15, y: 87}
+        - {x: 15, y: 90}
+        - {x: 11, y: 93}
+    - name: turboenemysheet_24
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 104
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
