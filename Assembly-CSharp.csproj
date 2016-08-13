@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{8AC75BCE-D5CC-5B04-398C-ACA04EF429CC}</ProjectGuid>
+    <ProjectGuid>{67402FCB-359D-6399-5B3E-3B0450324E1B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -45,8 +45,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\CambioSprite.cs" />
+     <Compile Include="Assets\Instanciar.cs" />
      <Compile Include="Assets\PorglezompPyroclastics\ExplosionMat.cs" />
      <Compile Include="Assets\Salto.cs" />
+     <Compile Include="Assets\controlPremios.cs" />
+     <Compile Include="Assets\crear_pared_ladrillos.cs" />
      <None Include="Assets\PorglezompPyroclastics\Explosion.shader" />
      <None Include="Assets\PorglezompPyroclastics\README.txt" />
  <Reference Include="UnityEngine.UI">
